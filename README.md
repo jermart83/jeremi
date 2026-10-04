@@ -1,0 +1,2 @@
+# jeremi
+strona do ćwiczeń
